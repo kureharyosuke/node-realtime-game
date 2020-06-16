@@ -6,3 +6,5 @@ yarn add @babel/node
 yarn add @bable/{core,preset-env}
 
 yarn add pug
+yarn add eslint
+yarn add eslint-
