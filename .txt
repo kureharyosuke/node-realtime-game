@@ -1,0 +1,6 @@
+yarn init
+yarn add nodemon
+yarn add express
+yarn add socket.io
+yarn add @babel/node
+yarn add @bable/{core,preset-env}
