@@ -7,4 +7,8 @@ yarn add @bable/{core,preset-env}
 
 yarn add pug
 yarn add eslint
-yarn add eslint-
+yarn add eslint-plugin-prettier
+yarn add eslint-config-prettier
+yarn add prettier
+
+- HTTP & HTTPS  = GET/POST
