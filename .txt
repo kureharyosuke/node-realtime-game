@@ -23,3 +23,6 @@ yarn bulid:styles
 
 yarn add gulp-autoprefixer
 yarn add gulp-csso
+
+
+yarn add del
