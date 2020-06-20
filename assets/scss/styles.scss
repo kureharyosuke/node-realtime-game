@@ -1,5 +1,14 @@
-$color: red;
+@import "body";
+
+@keyframes sexy {
+  from {
+    color: red;
+  }
+  to {
+    color: blue;
+  }
+}
 
 body {
-  background-color: $color;
+  position: sticky;
 }

@@ -13,3 +13,13 @@ yarn add prettier
 
 - HTTP & HTTPS  = GET/POST
 yarn add morgan
+
+
+- SCSS & GULP
+yarn add gulp
+yarn add node-sass gulp-sass
+
+yarn bulid:styles
+
+yarn add gulp-autoprefixer
+yarn add gulp-csso
