@@ -26,3 +26,5 @@ yarn add gulp-csso
 
 
 yarn add del
+yarn add gulp-browserify
+yarn add babelify 
